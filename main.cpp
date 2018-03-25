@@ -1,3 +1,12 @@
+/*
+HACKOTHON 2018
+TEAM The Missing Semi-colons
+Tyrone Moore
+Ian Martin
+Kevin Buranasombati
+Jaime Arnold
+*/
+
 #include <iostream>
 #include <string>
 #include <cstdlib>
