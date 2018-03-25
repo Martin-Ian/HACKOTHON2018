@@ -1,0 +1,47 @@
+fieldset
+{
+	width: 16em;
+	margin: auto;
+}
+
+h1, h2
+{
+	text-align: center;
+}
+
+
+div.submit
+{
+	text-align: center;
+}
+
+label
+{
+	margin-left: 2em;
+}	
+
+p
+{
+	text-align: center;
+}
+
+.image
+{	
+	background-image: url('Floor2-2017c.jpg');
+	display: grid;
+	width: 60em;
+	height: 50em;
+	margin-left: 20em;
+
+}
+
+.h1-style
+{
+	font-size: 80%;
+
+}
+
+#mapid
+{
+	height: 40em;
+}
